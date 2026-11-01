@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/oauth/relay", "destination": "/oauth/relay/index.html" },
+    { "source": "/oauth/relay/", "destination": "/oauth/relay/index.html" }
+  ]
+}
